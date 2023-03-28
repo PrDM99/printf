@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_rot13_string - prints a rot13'ed string
+ * print_rot13_string - The function that prints a rot13'ed string
  * @args: list of arguments pointing to string
  *
  * Return: len of string
