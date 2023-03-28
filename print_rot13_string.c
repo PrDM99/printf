@@ -4,7 +4,7 @@
  * print_rot13_string - prints a rot13'ed string
  * @args: list of arguments pointing to string
  *
- * Return: length of string
+ * Return: len of string
  */
 
 int print_rot13_string(va_list args)
