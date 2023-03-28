@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_char - prints a character
+ * print_char - A function that prints a character
  * @args: list of arguments pointing to character
  *
  * Return: length of character
